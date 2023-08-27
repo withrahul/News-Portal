@@ -1,4 +1,3 @@
- ```
 # News Daily
 
 This is a static website built with HTML, CSS, PHP, and MySQL which is connected to PhpMyAdmin database. It is a news website that features articles on a variety of topics, including sports, politics, and entertainment.
@@ -7,14 +6,10 @@ This is a static website built with HTML, CSS, PHP, and MySQL which is connected
 
 To get started, clone the repository or download the zip file.
 
-```
-
-...
+ ```
 
 git clone https://github.com/tapadippaul/news-daily.git <br/>
 cd news-daily
-
-...
 
 ```
 
@@ -22,11 +17,9 @@ cd news-daily
 
 To run the website, start the development server.
 
-```
 Serve as php project
 or,
 using XAMPP
-```
 
 The website will be available at http://localhost:3000.
 
