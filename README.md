@@ -17,8 +17,6 @@ cd news-daily
 To run the website, start the development server.
 
 ```
-npm start
-or,
 Serve as php project
 or,
 using XAMPP
