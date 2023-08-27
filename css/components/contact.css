@@ -1,0 +1,33 @@
+.contact {
+  height: 100%;
+  width: auto;
+  text-align: center;
+  padding-left: 16%;
+  padding-top: 1%;
+  background-color: #fff;
+}
+
+.contact__heading {
+  font-size: 50px;
+  font-weight: 600;
+  padding-bottom: 2%;
+}
+
+.contact-sec {
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 2rem;
+}
+
+.contact-icon {
+  font-size: 30px;
+  list-style: none;
+}
+
+.contact-text {
+  font-size: 30px;
+}
+
+.contact-info {
+  font-size: 20px;
+}

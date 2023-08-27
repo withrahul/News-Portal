@@ -1,0 +1,24 @@
+.about {
+  height: 80%;
+  width: auto;
+  text-align: center;
+  padding-left: 16%;
+  padding-top: 1%;
+  background-color: #fff;
+}
+
+.about__heading {
+  font-size: 50px;
+  font-weight: 600;
+  padding-bottom: 2%;
+}
+
+.about__description {
+  font-size: 20px;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.about__description span {
+  font-weight: 600;
+}

@@ -1,0 +1,150 @@
+.news {
+  height: 100%;
+  width: auto;
+  text-align: center;
+  padding-left: 16%;
+  padding-top: 1%;
+  background-color: #fff;
+}
+
+.news__heading {
+  font-size: 50px;
+  font-weight: 600;
+  padding-bottom: 2%;
+}
+
+.football-img {
+  height: 60%;
+  width: 60%;
+}
+
+.football-news {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.news_s-ck {
+  margin-top: 2rem;
+}
+
+.cricket-img {
+  height: 60%;
+  width: 60%;
+}
+
+.cricket-news {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.news_s-f2 {
+  margin-top: 2rem;
+}
+
+.f2-img {
+  height: 60%;
+  width: 60%;
+}
+
+.f2-news {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.news_s-mma {
+  margin-top: 2rem;
+}
+
+.mma-img {
+  height: 60%;
+  width: 60%;
+}
+
+.mma-news {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.news_s-moto-gp {
+  margin-top: 2rem;
+}
+
+.moto-gp-img {
+  height: 60%;
+  width: 60%;
+}
+
+.moto-gp-news {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.news_s-debt {
+  margin-top: 2rem;
+}
+
+.debt-img {
+  height: 60%;
+  width: 60%;
+}
+
+.debt-news {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.news_s-presidential {
+  margin-top: 2rem;
+}
+
+.presidential-img {
+  height: 60%;
+  width: 60%;
+}
+
+.presidential-news {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.news_s-voters {
+  margin-top: 2rem;
+}
+
+.voters-img {
+  height: 60%;
+  width: 60%;
+}
+
+.voters-news {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.news_s-ind {
+  margin-top: 2rem;
+}
+
+.ind-img {
+  height: 60%;
+  width: 60%;
+}
+
+.ind-news {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.news_s-parliament {
+  margin-top: 2rem;
+}
+
+.parliament-img {
+  height: 60%;
+  width: 60%;
+}
+
+.parliament-news {
+  font-size: 25px;
+  font-weight: 600;
+}
