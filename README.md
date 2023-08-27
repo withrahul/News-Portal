@@ -27,8 +27,11 @@ The website will be available at http://localhost:3000.
 
 The code is organized into the following directories:
 
-* `src`: Contains the source code for the website.
-* `public`: Contains the static assets for the website.
+* `admin-form`: Contains the source code for the admin registration site.
+* `css`: Contains the styling for the websites.
+* `images`: Contains the static assets for the website.
+* `login-form`: Contains the source code for the login site.
+* `news-pages/news_s`: Contains the source code for the child sites.
 
 ## Contributing
 
