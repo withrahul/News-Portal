@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+body {
+  height: 100vh;
+  width: auto;
+  background-color: #fff;
+  color: #000000;
+  font-family: 'Poppins', sans-serif;
+}
+
+.news-container {
+  margin-left: 4rem;
+  margin-right: 8rem;
+}
+
+.news__heading {
+  font-size: 40px;
+}
+
+.underlline {
+  border: 2px solid #fff;
+  width: 10%;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2%;
+}
+
+.football-img {
+  height: 60%;
+  width: 60%;
+}
+
+.football-news {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.fb-news_description {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.news_s-ck {
+  margin-top: 2rem;
+}
+
+.cricket-img {
+  height: 60%;
+  width: 60%;
+}
+
+.cricket-news {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.ck-news_description {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.news_s-f2 {
+  margin-top: 2rem;
+}
+
+.f2-img {
+  height: 60%;
+  width: 60%;
+}
+
+.f2-news {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.f2-news_description {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.news_s-mma {
+  margin-top: 2rem;
+}
+
+.mma-img {
+  height: 60%;
+  width: 60%;
+}
+
+.mma-news {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.mma-news_description {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.news_s-moto-gp {
+  margin-top: 2rem;
+}
+
+.moto-gp-img {
+  height: 60%;
+  width: 60%;
+}
+
+.moto-gp-news {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.moto-gp-description {
+  font-size: 15px;
+  font-weight: 400;
+}
