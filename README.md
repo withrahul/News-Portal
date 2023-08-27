@@ -8,7 +8,7 @@ To get started, clone the repository or download the zip file.
 
  ```
 
-git clone https://github.com/tapadippaul/news-daily.git <br/>
+git clone https://github.com/tapadippaul/news-daily.git
 cd news-daily
 
 ```
