@@ -8,8 +8,14 @@ This is a static website built with HTML, CSS, PHP, and MySQL which is connected
 To get started, clone the repository or download the zip file.
 
 ```
-git clone https://github.com/tapadippaul/news-daily.git
+
+...
+
+git clone https://github.com/tapadippaul/news-daily.git <br/>
 cd news-daily
+
+...
+
 ```
 
 ## Running the Website
